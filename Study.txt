@@ -1,0 +1,151 @@
+﻿Study : 
+
+
+Travis CI
+Jenkins
+
+
+DropWizard
+Google Docker
+Alpine Linux
+junit
+bamboo
+vpc
+mongodb
+
+
+vmware
+
+
+----------------------------------------------------------------------------------------------------------------------------
+https://linuxize.com/post/install-java-on-ubuntu-18-04/			// update alternate java version 
+
+https://askubuntu.com/questions/175514/how-to-set-java-home-for-java     // java-home for java
+
+https://manojsaha.com/2017/03/19/setup-java_home-path-ubuntu/		// set the java-home
+
+https://jar-download.com/						// jar file download
+
+https://www.quora.com/What-is-Jenkins-When-and-why-is-it-used                  // What is jenkins
+
+
+https://devopscube.com/jenkins-master-build-slaves-docker-container/                  // Setup Jenkins master and Build Slaves as Docker Container
+
+
+https://devopscube.com/docker-containers-as-build-slaves-jenkins/             // How to Setup Docker containers as Build Slaves for Jenkins
+
+
+https://jenkins.io/doc/book/installing/                                           // Downloading and running Jenkins in Docker
+
+
+https://www.thegeekstuff.com/2016/10/jenkins-git-setup/                            // GIT - Jenkins
+
+
+
+
+bd29ef620ad040d3ac41bccfb1083122
+
+
+463516d16d1a4549944afe311c009074
+
+
+6d797be4c60f440aad8430f673d35be3
+
+
+6e9b11d535d24905ac37a2561a79e7c3
+
+665e5d4c18654708bfd79cf7cfdb517a
+
+
+----------------------------------------------------------------------------------------------------------------------------
+http://dailylinuxuser.com/2018/01/how-to-fix-your-bios-after-installing-ubuntu-17-10-on-a-lenovo-laptop.html
+
+	//How To Fix Your BIOS After Installing Ubuntu 17.10 On A Lenovo Laptop
+
+https://docs.oracle.com/cd/E36975_01/html/E38016/gptnn.html 
+
+
+    	// Linux Operating Systems and Virtual Machine Open Issues
+
+chroot
+
+
+https://help.ubuntu.com/community/LiveCdRecovery
+
+
+https://github.com/alpinelinux/alpine-make-vm-image
+
+
+
+
+
+
+https://websiteforstudents.com/installing-vmware-workstation-14-pro-ubuntu-17-04-17-10/
+
+
+https://websiteforstudents.com/install-vmware-workstation-player-on-ubuntu-16-04-17-10-18-04-desktop/
+
+
+https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/14_0
+                                                    // VMware
+
+
+Junit :
+
+
+    https://github.com/junit-team/junit4 
+
+
+    https://github.com/junit-team/junit4/wiki 
+
+
+    https://github.com/junit-team/junit4/wiki/Download-and-Install 
+
+
+    https://github.com/junit-team/junit4/wiki/Getting-started 
+
+
+
+
+    http://www.ntu.edu.sg/home/ehchua/programming/java/JavaUnitTesting.html 
+
+
+
+
+Apache Ant :
+
+
+    https://www.linuxhelp.com/how-to-install-apache-ant-on-ubuntu/ 
+
+
+
+
+Maven :
+
+
+    https://www.bogotobogo.com/TestingFramworks/JUnit/JUnit_Test_with_Maven.php 
+
+
+VMWare:
+
+
+    https://websiteforstudents.com/installing-ubuntu-17-10-vmware-workstation-guest-machine/ 
+
+
+    https://websiteforstudents.com/how-to-install-ubuntu-16-04-17-10-18-04-on-vmware-workstation-guest-machines/ 
+
+
+after installing vmware :
+
+
+    sudo ./VMware-Workstation-Full-15.0.0-10134415.x86_64.bundle
+    Extracting VMware Installer...done.
+
+
+    (vmware-installer.py:10307): IBUS-WARNING **: The owner of /home/mani/.config/ibus/bus is             not root!
+
+
+Enable hardware virtualization VT-x/AMD-V in BIOS or UEFI : (Hardware Virtualization is Enabled on Ubuntu)
+
+
+    https://www.smarthomebeginner.com/enable-hardware-virtualization-vt-x-amd-v/
